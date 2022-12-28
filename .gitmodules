@@ -1,0 +1,3 @@
+[submodule "day1learningrust"]
+	path = day1learningrust
+	url = git@github.com:Bronstein0x113c1c3/day1learningrust.git
